@@ -15,14 +15,8 @@ Hi! I'm Shalabh Agarwal Studying at GLA University and aspiring to become a full
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shalabh-agarwal8630&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shalabh-agarwal8630&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shalabh-agarwal8630&icon=0&color=0)](https://visitcount.itsvg.in)
