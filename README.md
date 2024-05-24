@@ -25,14 +25,6 @@ Trainee
   <li>Post completing the training, gained proficiency in core Java concepts and problem-solving skills through competitive programming challenges.</li>
 </ul>
 
-## 🌟 Extra/Co-Curricular Activities
-<ul>
-  <li>Runner up in Code-n-hunt, a coding event held by the Code Busters club at GLAU.</li>
-  <li>Participated in IBM Ice Day, an intra-college event held by GLAU.</li>
-  <li>Completed the Java Programming Fundamentals course by Infosys Springboard.</li>
-  <li>Participated in the 2.0 Technothon '23, successfully advancing through two competitive rounds, demonstrating dedication and technical competence within the event's challenging environment.</li>
-</ul>
-
 ## 🏆 Achievements
 <ul>
   <li>Secured first place in GLA-Thon (2023), GLA University's intra-university hackathon, demonstrating problem-solving and collaboration skills.</li>
