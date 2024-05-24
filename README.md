@@ -1,7 +1,3 @@
-Sure, here is your updated profile with the specified tech stack included:
-
----
-
 # 💫 About Me:
 Hi! I'm Shalabh Agarwal, studying at GLA University and aspiring to become a full-stack developer. Passionate about scaling web applications, especially building robust and scalable backends. Excited to further develop my skills in this field!
 
