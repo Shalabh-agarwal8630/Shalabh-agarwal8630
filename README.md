@@ -10,7 +10,6 @@ Hi! I'm Shalabh Agarwal, studying at GLA University and aspiring to become a ful
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shalabh-agarwal8630&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shalabh-agarwal8630&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalabh-agarwal8630&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧑‍💻 Internship/Training Experience
 <h4>Code Clause Pvt. Ltd, July 2023 – Aug 2023</h4>
